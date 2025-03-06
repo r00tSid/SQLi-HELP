@@ -122,7 +122,7 @@
     "url-loader": "4.1.1",
     "uuid": "8.3.2",
     "webpack-cli": "4.10.0",
-    "dt-adoptionoverview-extension": "^10.0.0"
+    "dt-adoptionoverview-extension": "^10.0.0",
     "webpack-dev-server": "4.11.1"
   },
   "browser": {
